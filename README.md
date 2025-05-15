@@ -6,28 +6,28 @@ This mini-project is a simulation of the collaboration between Tom and Jerry. In
 # Part 1: Setup & Initial configuration
 
 ### Git Installation
-visit the git official website and download git for your operating system using the installation instructions
+visit the git official website and download git for your operating system using the installation instructions.
 
 ![git version](./img/01.%20git%20version.png)
 
 ### Git Repository
-* create or sign into a github 
+* create or sign into a github. 
 
-* click the + sign to create a new repository
+* click the + sign to create a new repository.
 
 
 ![new repository](./img/02.%20git%20repository%20.png)
 
 create a new repository with a `README`
-* Give a repository name (e.g. ai-startup-website)
-* Add a description and then click create repository
+* Give a repository name (e.g. ai-startup-website).
+* Add a description and then click create repository.
 
 ![create repository](./img/03.%20new%20repository%20.png)
 
 ### Cloning repository
-On your github repo page that you just created, click the `code` button and copy the HTTPS Url 
+On your github repo page that you just created, click the `code` button and copy the HTTPS Url. 
 
-* open your terminal or command prompt 
+* open your terminal or command prompt. 
 
 Create a folder `git-project` and change directory into the folder by running the `cd git-project`. create a directory named `ai-startup-website` inside the git-project folder and cd into the directory where you will clone the website by running the `git clone url`
 
@@ -52,13 +52,13 @@ Navigate to the directory you are currently working on and check the branch to m
 
 * Create a new branch for tom named **update-navigation**
 
-* Confirm that the changes from the `main` branch to the `update-navigation` branch
+* Confirm that the changes from the `main` branch to the `update-navigation` branch.
 
 ![update navigation](./img/08.%20update-navigation%20.png)
 
 * Add tom's contribution to the index.html file using your text editor, and confirm that changes made are ready to be staged.
 
-* Stage changes and confirm that they are ready for commit
+* Stage changes and confirm that they are ready for commit.
 
 ![status & staging](./img/09.%20git%20status%20&%20staging%20-%20tom%20.png)
 
